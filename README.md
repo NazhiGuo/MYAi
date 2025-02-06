@@ -13,7 +13,7 @@
   <a href="#-live-demo">🚀 Live Demo</a> | <a href="#-features">✨ Features</a> | <a href="#-technology-stack">🛠 Technology</a>
 </p>
 <p align="center">
-  🚀 Developed with ❤️ by <a href="guonazhi.site">NzG</a>
+  🚀 Developed with ❤️ by <a href="http://guonazhi.site">NzG</a>
 </p>
 
 ---
